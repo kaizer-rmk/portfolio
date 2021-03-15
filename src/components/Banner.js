@@ -10,11 +10,11 @@ function Banner() {
                         <div className="header__content">
                             <div className="header__section">
                                 <ul className="header_ul">
-                                    <li><FaFacebookF/></li>
-                                    <li><FaTwitter/></li>
-                                    <li><FaLinkedin/></li>
-                                    <li><FaInstagram/></li>
-                                    <li><FaGithub/></li>
+                                    <li><a href="https://www.facebook.com/kaizerRMK"><FaFacebookF/></a></li>
+                                    <li><a href="https://twitter.com/MukeshK40951914"><FaTwitter/></a></li>
+                                    <li><a href="https://www.linkedin.com/in/mukesh-kumar-288b1819b/"><FaLinkedin/></a></li>
+                                    <li><a href="https://www.instagram.com/krazy_kaizer/"><FaInstagram/></a></li>
+                                    <li><a href="https://github.com/kaizer-rmk"><FaGithub/></a></li>
                                 </ul>
                                 <h1>I m' Mukesh Kumar</h1>
                                 <p>
