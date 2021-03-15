@@ -165,9 +165,15 @@ body{
 .services__box{
   padding: 40px;
   margin: 20px;
-  background-color: #000513;
+  background-color: #0e1e29;
+  box-shadow: 5px 5px 15px 5px #000513;
+  
   color: #fff;
-  box-shadow: 5px 5px 15px 5px #171230;
+  
+}
+.services__box:hover{
+  background-color: #000513;
+  box-shadow: 5px 5px 15px 5px #0e1e29;
 }
 .commonIcons img{
   padding: 6px;
